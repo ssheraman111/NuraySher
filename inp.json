@@ -1,0 +1,22 @@
+{
+  "practice": [
+    {
+      "title": "sdfsdfs",
+      "descr": "sdf",
+      "photo": "https://i.pinimg.com/564x/53/d2/da/53d2dafdfe4f0363cb9d7c92fd025f3e.jpg",
+      "id": 3
+    },
+    {
+      "title": "baike",
+      "descr": "sdsdgsdg",
+      "photo": "https://i.pinimg.com/474x/4d/66/bc/4d66bc8a7e2c0606f530217fe1809760.jpg",
+      "id": 4
+    },
+    {
+      "title": "sdf",
+      "descr": "sdf",
+      "photo": "sdf",
+      "id": 5
+    }
+  ]
+}
